@@ -1,0 +1,219 @@
+{
+  "project_info": {
+    "project_number": "483954936238",
+    "project_id": "supergym-4a47d",
+    "storage_bucket": "supergym-4a47d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483954936238:android:957f98d171549ccdb5a03f",
+        "android_client_info": {
+          "package_name": "com.exam.auth.exam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw6bT6P9dQtlhtRNUrJvOiXvCua8GJA9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483954936238:android:c42a52570b012611b5a03f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw6bT6P9dQtlhtRNUrJvOiXvCua8GJA9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483954936238:android:9ee8acf11e4749b1b5a03f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_gym"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw6bT6P9dQtlhtRNUrJvOiXvCua8GJA9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483954936238:android:79cfc6d6a30fd485b5a03f",
+        "android_client_info": {
+          "package_name": "com.example.gym"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw6bT6P9dQtlhtRNUrJvOiXvCua8GJA9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483954936238:android:39c00c6749421180b5a03f",
+        "android_client_info": {
+          "package_name": "com.example.gym1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw6bT6P9dQtlhtRNUrJvOiXvCua8GJA9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483954936238:android:90d61dabbfd51662b5a03f",
+        "android_client_info": {
+          "package_name": "com.example.gym2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw6bT6P9dQtlhtRNUrJvOiXvCua8GJA9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483954936238:android:41be2926a716416ab5a03f",
+        "android_client_info": {
+          "package_name": "com.example.gym3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw6bT6P9dQtlhtRNUrJvOiXvCua8GJA9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483954936238:android:fa86cc1fd36dca7fb5a03f",
+        "android_client_info": {
+          "package_name": "com.example.super_gym"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw6bT6P9dQtlhtRNUrJvOiXvCua8GJA9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483954936238:android:4491c154edf35893b5a03f",
+        "android_client_info": {
+          "package_name": "com.example.supergym"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw6bT6P9dQtlhtRNUrJvOiXvCua8GJA9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483954936238:android:e6cf211e5e5fcbf1b5a03f",
+        "android_client_info": {
+          "package_name": "com.mycompany.supergym"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw6bT6P9dQtlhtRNUrJvOiXvCua8GJA9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483954936238:android:41d365b39f733ce7b5a03f",
+        "android_client_info": {
+          "package_name": "gym.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw6bT6P9dQtlhtRNUrJvOiXvCua8GJA9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
